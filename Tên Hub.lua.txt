@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 --------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "thoi banana Hub",
-    SubTitle = "thoi hub",
+    Title = "bananana Hub",
+    SubTitle = "by Tên Thằng thoi",
     TabWidth = 160,
     Size = UDim2.fromOffset(450, 300),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -2291,7 +2291,7 @@ function BTP(p)
 					wait()
 					Mix_Farm = nil
 				end
-			
+			end
 		end)
 	end
 
